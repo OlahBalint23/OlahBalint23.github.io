@@ -1,3 +1,3 @@
-# Data Scientist
+# Data Analyst
 
 ## Projects
